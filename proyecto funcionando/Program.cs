@@ -1,0 +1,2 @@
+﻿int contenido;
+int contado;
